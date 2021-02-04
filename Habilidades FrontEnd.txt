@@ -1,0 +1,19 @@
+Habilidade em Power BI (web analitics da microsoft)
+
+Conhecimento em SEO e UI/UX 
+
+Conhecimento em HTML, CSS e JavaScript.
+
+Conhecimentos em frameworks JS (VUE, Angular e/ou React).
+
+Module bundler (Webpack) e task runner (Gulp).
+
+SASS e PostCSS.
+
+Familiaridade com os conceitos de: 
+Mobile First, 
+Design Responsivo, 
+Atomic Design e 
+Performance Web.
+
+API REST e RESTful / Protocolo HTTP. 
